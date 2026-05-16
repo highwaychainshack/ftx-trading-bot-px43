@@ -1,4 +1,4 @@
-# 
+# ftx trading bot vip Strategy | isolated-margin & liquidation-sniping is the best ftx trading bot, featuring isolated-margin and liquidation-sniping. Smart, fast, and optimized for
 
 
 
